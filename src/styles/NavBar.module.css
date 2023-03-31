@@ -1,0 +1,17 @@
+.nav{
+    border: 4px solid rgb(48, 15, 83);
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2px;
+    padding: 18px;
+    background-color: #1c3c4d;
+    height: 10vh;
+    
+}
+.logo{
+  margin-top: -20%;
+  width: 80%;
+  height: 20vh;
+}
