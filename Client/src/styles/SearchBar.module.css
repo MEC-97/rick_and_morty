@@ -1,0 +1,6 @@
+.search{
+    border: 2px solid rgb(53, 15, 71);
+    border-radius: 4px;
+    display: flex;
+    padding: 2px;
+}
